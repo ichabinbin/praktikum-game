@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class script: MonoBehaviour {
+public class script: MonoBehaviour{
 
 
 	// Update is called once per frame
